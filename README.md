@@ -8,6 +8,6 @@ It runs an Apache2 web server at port 80 inside the container but port 8001 thro
 ## Webstorm setup
 Languages & Frameworks -> PHP -> Debug -> DBGp proxy:
 
-IDE Key=PHPSTORM
-HOST=<local ip>
-PORT=9000
+- IDE Key=PHPSTORM
+- HOST=[local ip]
+- PORT=9000
